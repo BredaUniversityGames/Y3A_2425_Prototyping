@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Y3A_W2_AI_Movement.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Y3A_W2_AI_Movement.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Y3A_W2_AI_MovementEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Y3A_W2_AI_Movement">
+      <UniqueIdentifier>{D16B672B-4E8C-33AA-ACD7-CEAE4E8AA5E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_Movement.Build.cs">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_Movement.cpp">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_Movement.h">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_MovementCharacter.cpp">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_MovementCharacter.h">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_MovementGameMode.cpp">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Y3A_W2_AI_Movement\Y3A_W2_AI_MovementGameMode.h">
+      <Filter>Source\Y3A_W2_AI_Movement</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

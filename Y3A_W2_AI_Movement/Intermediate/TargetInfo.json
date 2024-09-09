@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Y3A_W2_AI_Movement",
+			"Path": "..\\Source\\Y3A_W2_AI_Movement.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Y3A_W2_AI_MovementEditor",
+			"Path": "..\\Source\\Y3A_W2_AI_MovementEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
