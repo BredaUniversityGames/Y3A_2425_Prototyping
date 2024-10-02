@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/KJ/8JZYJOOS7IAF1ZVHZ18X39.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/3S/FVI2MJM9EMV6PLY4JFGI3V.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
@@ -141,7 +140,6 @@
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/T9/MULLU15BCUQ6SQC6Q51AXQ.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K9/DTYP32CBIK3PJURG0XUQXO.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/63/1ZSM3SMHC04QLHZEBM8GY1.uasset",
-				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/Meshes/StaticMesh.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/Meshes/MINIMAPHOLDER.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
@@ -340,14 +338,25 @@
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/B5/2P5CCVLB1VG5F9D5U0GFB8.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Z4/Z0F8W178YESFOBOQKVD52U.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/KF/538NL8B0OW2CMXC5ON2FXK.uasset",
-				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/U8/ZFOPYQU5N5O9OLG395D54Z.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TA/2WZ3G1M30X7SFB0GTMQY3F.uasset",
-				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OE/VP0UDMZHJWKZ87SCTBTF74.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/FirstPerson/Blueprints/BP_Pickup_Rifle1.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/FirstPerson/Blueprints/BP_Pickup_Rifle2.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z8/CSVWT2TBAPA7MT6MJNUB78.uasset",
 				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TK/AMJS8G2A78D4ARKH3EIGJ7.uasset",
-				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/downloaded/T_White.uasset"
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/downloaded/T_White.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/NewBps/MiniMapNew.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/NewBps/MiniMapNew_MATS/HologramMat.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/NewBps/Scan_Plane.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/59/N58IKQZGBIDSOXSYVXZUT0.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/S9/1QVYZH0JVHUTEGNRFWIZX7.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/DepthFadeStuff/DepthFade.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/F6/X9UV7AANZ9T9YYQTS3X9HY.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/HX/L3WXVO18GOAHYSBCR4JTOU.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/NN/YQ794Q6DREM1HAUX3325TI.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/Meshes/StaticMesh.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/U8/ZFOPYQU5N5O9OLG395D54Z.uasset",
+				"D:/Projects/Programming/GitHub/Y3A_2425_Prototyping/Y3A_MiniMap/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OE/VP0UDMZHJWKZ87SCTBTF74.uasset"
 			]
 		}
 	]
